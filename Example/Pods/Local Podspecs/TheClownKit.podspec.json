@@ -1,0 +1,22 @@
+{
+  "name": "TheClownKit",
+  "version": "0.1.0",
+  "summary": "A short description of TheClownKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TheClowns/TheClownKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TheClowns": "1142382088@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/TheClowns/TheClownKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TheClownKit/Classes/**/*"
+}

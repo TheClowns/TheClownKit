@@ -1,0 +1,6 @@
+framework module TheClownKit {
+  umbrella header "TheClownKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

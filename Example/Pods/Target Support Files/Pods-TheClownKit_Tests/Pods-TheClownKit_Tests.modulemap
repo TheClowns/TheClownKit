@@ -1,0 +1,6 @@
+framework module Pods_TheClownKit_Tests {
+  umbrella header "Pods-TheClownKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

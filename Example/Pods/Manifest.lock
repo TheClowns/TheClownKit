@@ -1,0 +1,16 @@
+PODS:
+  - TheClownKit (0.1.0)
+
+DEPENDENCIES:
+  - TheClownKit (from `../`)
+
+EXTERNAL SOURCES:
+  TheClownKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TheClownKit: afd3e2072aff8fd3f56a8947c9517771a3081eb2
+
+PODFILE CHECKSUM: b9d1c1faa0cbafc61418fbdb3f314ae5a91f6839
+
+COCOAPODS: 1.9.3
